@@ -1,4 +1,4 @@
-## Experiment 2 mobile application
+## Experiment 2 smartphone application
 
 This application is built using the Ionic Framework: https://ionicframework.com/
 
